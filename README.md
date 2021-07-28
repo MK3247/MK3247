@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MK3247
 - 👀 I’m interested in deep learning 
-- 🌱 I’m currently learning convolutional neural networks
+- 🌱 I’m currently doing deep learning
 - 💞️ I’m looking to collaborate on ur project
 - 📫 How to reach me 
 
