@@ -1,45 +1,54 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="24px">, I am Charles Wafula <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Earth.gif" width="24px"> <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=MK3247" alt="visitor badge"/></p>
+<h1 align="center">Hi <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" height="30px" />, I'm Charles</h1>
+<h3 align="center">A Passionate Software Developer from Kenya</h3>
 
-###### **Software Developer**
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=MK3247&label=PROFILE+VIEWS" alt="itsvinayak" />
+  <a href="wafulacharles47@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
+</p>
 
+<p align="right">
+    <a href="https://www.buymeacoffee.com/MK3247" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="40px"   width="180px"></a>
 
-A Software Developer with experience building web application used by thousands of people. Specializing in Python, Django, Machine Learning, and Deep Learning.
-
-My stack is as follows:
-* **Frontend**: HTML, CSS, Bootstrap, and Vanilla JavaScript.
-* **Backend**: Python, Django, Flask, and Docker.
-* **Data Science**: Data Mining, Exploratory Data Analysis, Machine Learning, Data Visualization
-
-🌱 I’m currently learning Docker, AWS, and Google Cloud.
-
-### You can also find me on
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='website' height='40'>](https://about.me/xxxxx)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/charles-wafula-557992220/) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@codeveterun) 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='email' height='40'>](mailto:wafulacharles47.com)
+</p>
 
 
+<p align="left">
+  
+- 🌱 I’m currently learning many things
 
-### My GitHub stats
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK3247&hide=html,css&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="MK3247's github stats" src="https://github-readme-stats.vercel.app/api?username=MK3247&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
+- 👨‍💻 All of my projects are available here
 
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=MK3247&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
+- 💬 Ask me about python, Django, Machine Learning, Deep Learning
 
-<!--
-**SpencerOfwiti/SpencerOfwiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me **wafulacharles47@gmail.com**
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=MK3247&show_icons=true&theme=radical" alt="MK3247" /></p> 
+ <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
+  <img align="center" src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180"></p>
+
+---
+
+<p align="center">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+</p>
+
+---
+
+<p align="center">
+<a target="_blank" href="https://dev.to/MK3247">
+  <img align="center"  alt="MK3247" width="30" height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+</a>
+<a href="https://https://www.linkedin.com/in/charles-wafula-557992220/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="itsvinayak" height="30" width="30" /></a>
+</p>
+
+
+
+
