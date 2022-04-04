@@ -14,7 +14,7 @@ My stack is as follows:
 
 ### You can also find me on
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='website' height='40'>](https://about.me/spencerofwiti)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='website' height='40'>](https://about.me/xxxxx)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/charles-wafula-557992220/) 
 
@@ -27,7 +27,7 @@ My stack is as follows:
 ### My GitHub stats
 <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MK3247&hide=html,css&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000" ><img alt="MK3247's github stats" src="https://github-readme-stats.vercel.app/api?username=MK3247&amp;show_icons=true&amp;count_private=true&amp;line_height=40&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000">
 
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=MK324&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
+<img width=100% src="https://github-profile-trophy.vercel.app/?username=MK3247&column=7&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000000"/>
 
 <!--
 **SpencerOfwiti/SpencerOfwiti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
